@@ -1,0 +1,7 @@
+c:\users\jairo\documents\visual studio 2017\Projects\Ordenacao Externa\Ordenacao Externa\bin\Debug\Ordenacao Externa.exe.config
+c:\users\jairo\documents\visual studio 2017\Projects\Ordenacao Externa\Ordenacao Externa\bin\Debug\Ordenacao Externa.exe
+c:\users\jairo\documents\visual studio 2017\Projects\Ordenacao Externa\Ordenacao Externa\bin\Debug\Ordenacao Externa.pdb
+c:\users\jairo\documents\visual studio 2017\Projects\Ordenacao Externa\Ordenacao Externa\obj\Debug\Ordenacao Externa.csprojResolveAssemblyReference.cache
+c:\users\jairo\documents\visual studio 2017\Projects\Ordenacao Externa\Ordenacao Externa\obj\Debug\Ordenacao Externa.csproj.CoreCompileInputs.cache
+c:\users\jairo\documents\visual studio 2017\Projects\Ordenacao Externa\Ordenacao Externa\obj\Debug\Ordenacao Externa.exe
+c:\users\jairo\documents\visual studio 2017\Projects\Ordenacao Externa\Ordenacao Externa\obj\Debug\Ordenacao Externa.pdb
